@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(40, 40)">
+            <!-- Building outline -->
+            <path d="M10,100 L110,100 L110,20 L60,0 L10,20 Z" stroke="#E2E8F0" stroke-width="4" fill="#F8FAFC"/>
+            <!-- Windows -->
+            <rect x="30" y="40" width="20" height="20" fill="#E2E8F0"/>
+            <rect x="70" y="40" width="20" height="20" fill="#E2E8F0"/>
+            <rect x="30" y="70" width="20" height="20" fill="#E2E8F0"/>
+            <rect x="70" y="70" width="20" height="20" fill="#E2E8F0"/>
+            <!-- Door -->
+            <rect x="50" y="70" width="20" height="30" fill="#CBD5E1"/>
+            <!-- Euro symbol -->
+            <text x="45" y="35" font-family="Arial" font-size="24" fill="#94A3B8">€</text>
+        </g>
+    </g>
+</svg>

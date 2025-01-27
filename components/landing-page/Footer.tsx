@@ -38,6 +38,7 @@ export function Footer() {
             <Link href="/business-partner" className="text-sm text-white hover:text-gray-300">Business Partners</Link>
             <Link href="/about-us" className="text-sm text-white hover:text-gray-300">About Us</Link>
             <Link href="/tv-format" className="text-sm text-white hover:text-gray-300">TV Format</Link>
+            <Link href="/admin/auth/signin" className="text-sm text-white hover:text-gray-300">Admin Portal</Link>
           </div>
         </div>
       </div>
